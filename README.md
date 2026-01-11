@@ -83,7 +83,7 @@ The financial subsystem ensures transactional integrity through three core algor
 ## Authors
 **International University of Sarajevo - Faculty of Engineering and Natural Sciences**
 
-- **[Ahmet Yusuf Özgören](https://www.linkedin.com/in/ayozgoren)** - *GUI Architecture, Admin Subsystem, Visual Assets*
-- **[Erdinç Taha Diker](https://www.linkedin.com/in/erdin%C3%A7-taha-d-5ba59631a/)** - *Physics Engine, Financial Algorithms, Audio Integration*
+- **[Ahmet Yusuf Özgören](https://www.linkedin.com/in/ayozgoren)** 
+- **[Erdinç Taha Diker](https://www.linkedin.com/in/erdin%C3%A7-taha-d-5ba59631a/)** 
 
 **Submitted to** Dr. Tarik Namas
