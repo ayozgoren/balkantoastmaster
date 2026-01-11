@@ -78,7 +78,7 @@ The financial subsystem ensures transactional integrity through three core algor
 - **ToastComponents.m**: Factory class for dynamic UI component generation.
 - **inventory.xlsx**: Database for products and coin stocks.
 - **log.txt**: Sequential audit trail of system events.
-- Images and audio files are containing same folder
+- Images and audio files are containing same folder.
 
 ## Authors
 **International University of Sarajevo - Faculty of Engineering and Natural Sciences**
